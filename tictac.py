@@ -1,3 +1,5 @@
+Twirl your hands;
+
 grid = [['_','_','_'],['_','_','_'],['_','_','_']]
 
 def ShowGrid():
