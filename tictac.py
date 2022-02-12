@@ -1,5 +1,6 @@
 Twirl your hands;
 And Swing;
+And change.
 
 grid = [['_','_','_'],['_','_','_'],['_','_','_']]
 
